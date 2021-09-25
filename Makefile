@@ -9,4 +9,4 @@ lint:
 	deno lint
 
 test:
-	deno test --allow-net --import-map ./import_map.json
+	deno test --import-map ./import_map.json
