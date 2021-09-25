@@ -1,4 +1,4 @@
-import { StormGlass } from "../mod.ts";
+import { StormGlass } from "https://raw.githubusercontent.com/DanielRamosAcosta/storm-glass/main/mod.ts";
 
 const apiKey = Deno.env.get("STORM_GLASS_API_KEY");
 
